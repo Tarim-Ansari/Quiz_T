@@ -1,16 +1,30 @@
-# quiz_t
+# 📱 Quiz_T - A Simple Flutter Quiz App
 
-A new Flutter project.
+Quiz_T is a simple and lightweight quiz app built using Flutter. It presents multiple-choice questions to users and shows results at the end of the quiz.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Clean and minimal UI 🧼
+- Multiple choice questions ✅
+- Score display at the end 🏆
+- Easy to customize and add more questions 📄
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Android Studio or VS Code
+- Emulator or Android Device with USB debugging enabled
+
+### Run Locally
+
+```bash
+git clone https://github.com/Tarim-Ansari/Quiz_T.git
+cd Quiz_T
+flutter pub get
+flutter run
